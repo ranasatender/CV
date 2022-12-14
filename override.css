@@ -1,0 +1,54 @@
+* {
+  /* Override default margins*/
+  --pagedjs-margin-right: 0.1in;
+  --pagedjs-margin-left: 0.1in;
+  --pagedjs-margin-top: 0.075in;
+  --pagedjs-margin-bottom: 0.075in;
+}
+
+
+:root{
+  --sidebar-width: 14rem; /* side bar width */
+  --sidebar-background-color: #a2e2e2;
+  --decorator-border: 2px solid #a2e2e2; /* change color and thickness of timeline */
+
+}
+
+.decorator::after{
+  background-color: #a2e2e2; /* change color timeline dots */
+
+}
+
+
+/* Define the font family here */
+body{
+  font-family: "Garamond", serif;
+
+.aside {
+  height: 100%;
+  width: var(--sidebar-width) !important;
+  padding-left: 0.75rem;
+  padding-right: 0;
+  padding-top: 1rem;
+margin-left: -35px;
+}
+
+.aside .level2 {
+  margin-top: 0.315in;
+}
+
+.aside p {
+  margin-block-start: 0.75em;
+  margin-block-end: 0;
+}
+
+[data-id="skills"] ul {
+  margin: 0.05in 0 0.05in !important;
+}
+
+[data-id="contact"] ul {
+  padding-left: 0;
+  margin-top: 0;
+}
+
+}
