@@ -42,8 +42,8 @@ Skills
 **TOOLS**\
 R programming language for statistical analysis and visualization (ggplot2, tidyverse, purrr, tibble, MICE, Amelia, missForest, Hmisc, mi, lubridate, caret) | STATA | Excel | MAXQDA | Zotero | Adobe InDesign | Word | PowerPoint | Google Workspace (Docs | Sheets (Simple ML for Sheets) | Slides | Forms)
 
-**SOCIAL RESEARCH & DATA ANALYTICS**\
-Exploratory data analysis (EDA) | Regression analysis (Linear, Logistic) | Time series analysis | Statistical modeling | Econometrics | Impact evaluation | Experimental (RCT) and quasi-experimental research and statistical technique for estimating causal relationships (PSM, IV, RDD, DID) | Systematic literature reviews | Participatory research methods (FGDs | in-depth interviews) | Thematic coding (open and axial) and analysis | Surveys | Development of evaluation framework (Theory of Change and log-frame) | Data collection, preparation, quality assurance and analysis of structured and unstructured data (textual), and data visualization | Report writing
+**SOCIAL RESEARCH & DATA SCIENCE**\
+Exploratory data analysis (EDA) | Regression analysis (Linear, Logistic) | Time series | Statistical modeling | Econometrics | Impact evaluation | Experimental (RCT) and quasi-experimental research and statistical technique for estimating causal relationships (PSM, IV, RDD, DID) | Systematic literature reviews | Participatory research methods (FGDs | in-depth interviews) | Thematic coding (open and axial) and analysis | Surveys | Development of evaluation framework (Theory of Change and log-frame) | Data collection, preparation, quality assurance and analysis of structured and unstructured data (textual), and data visualization | Report writing
 
 **LANGUAGES**\
 English | Hindi
@@ -53,7 +53,6 @@ Main
 SATENDER RANA {#title}
 --------------------------------------------------------------------------------
 Trained in applied development economics, I specialize in quantitative and qualitative research methods, econometrics, and the use of statistical software to wrangle and visualize data and communicate insights to decision makers. I'm keen interested in and working towards harnessing data science to enable not-for-profits in using the data to make evidence-informed decisions. I'm an avid reader and writer and frequently write on development research and evidence.
-
 Education {data-icon=graduation-cap}
 --------------------------------------------------------------------------------
 ### Indian Institute of Management Lucknow (IIML)
