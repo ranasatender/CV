@@ -1,0 +1,432 @@
+---
+title: "Satender Rana"
+author: Satender
+date: "`r Sys.Date()`"
+output:
+  pagedown::html_resume:
+    css: 
+      - override.css
+      - resume 
+    
+    # set it to true for a self-contained HTML page but it'll take longer to render
+    self_contained: false
+    
+# uncomment this line to produce HTML and PDF in RStudio:
+knit: pagedown::chrome_print
+---
+
+```{css, echo=FALSE}
+.pagedjs_page:not(:first-of-type) {
+  --sidebar-width: 0rem;
+  --sidebar-background-color: #fffff;
+  --main-width: calc(var(--content-width) - var(--sidebar-width));
+  --decorator-horizontal-margin: 0.2in;
+}
+
+```
+
+
+Aside
+================================================================================
+Contact {#contact}
+--------------------------------------------------------------------------------
+
+- <i class="fa fa-phone"></i> +91 783-894-7330
+- <i class="fa fa-envelope"></i> rana.satender@hotmail.com
+- <i class="fa fa-linkedin"></i> [linkedin](https://www.linkedin.com/in/satenderrana/)
+- <i class="fa fa-github"></i> [github](https://github.com/ranasatender)
+- <i class="fa fa-dropbox"></i> [portfolio](https://www.dropbox.com/sh/a9wbuh9j3jibfvv/AADSPMsGEFyvBFwCXVvgs1mTa?dl=0)
+
+Skills
+--------------------------------------------------------------------------------
+**TOOLS**\
+R programming language for statistical analysis and visualization (ggplot2, tidyverse, purrr, tibble, MICE, Amelia, missForest, Hmisc, mi, lubridate, caret) | STATA | Excel | MAXQDA | Zotero | Adobe InDesign | Word | PowerPoint | Google Workspace (Docs | Sheets (Simple ML for Sheets) | Slides | Forms)
+
+**SOCIAL RESEARCH & DATA ANALYTICS**\
+Exploratory data analysis (EDA) | Regression analysis (Linear, Logistic) | Time series analysis | Statistical modeling | Econometrics | Impact evaluation | Experimental (RCT) and quasi-experimental research and statistical technique for estimating causal relationships (PSM, IV, RDD, DID) | Systematic literature reviews | Participatory research methods (FGDs | in-depth interviews) | Thematic coding (open and axial) and analysis | Surveys | Development of evaluation framework (Theory of Change and log-frame) | Data collection, preparation, quality assurance and analysis of structured and unstructured data (textual), and data visualization | Report writing
+
+**LANGUAGES**\
+English | Hindi
+
+Main
+================================================================================
+SATENDER RANA {#title}
+--------------------------------------------------------------------------------
+Trained in applied development economics, I specialize in quantitative and qualitative research methods, econometrics, and the use of statistical software to wrangle and visualize data and communicate insights to decision makers. I'm keen interested in and working towards harnessing data science to enable not-for-profits in using the data to make evidence-informed decisions. I'm an avid reader and writer and frequently write on development research and evidence.
+
+Education {data-icon=graduation-cap}
+--------------------------------------------------------------------------------
+### Indian Institute of Management Lucknow (IIML)
+
+[Executive Programme in Data Science](https://iiml.emeritus.org/iiml-executive-programme-in-data-science/index.php)
+
+Hybrid
+
+2023
+
+### London School of Economics and Political Science (LSE)
+
+[MSc Dev. Management (Applied Development Economics)](https://www.lse.ac.uk/study-at-lse/Graduate/degree-programmes-2023/MSc-Development-Management)
+
+London, UK
+
+2021
+
+**Dissertation:** *Impact of Social Capital on Social Distancing and Spread of COVID-19 in India.*
+
+Work Experience {data-icon=suitcase}
+--------------------------------------------------------------------------------
+### Senior Research Fellow | Research Lead (Talent Management study | Knowledge Institute)
+
+Indian School of Development Management (ISDM)
+
+Noida, India
+
+Present - 2021
+
+- Prepared 3 [research reports](https://www.isdm.org.in/talent-management-studies-and-research-reports) from talent study.
+- Developed 2 [cases](https://www.isdm.org.in/talent-management-studies-and-research-reports) on talent management.
+- Conducted 2 workshops on qualitative thematic coding using MAXQDA.
+
+### Independent Consutant
+
+International Rice Research Institute (IRRI)
+
+Remote
+
+2021 - 2021
+
+- Developed indicators, data collection tool, and index for measuring and monitoring womenâs agri-entrepreneurship capacity (WAEC).
+- Prepared a research report and a working paper on WAEC index.
+
+### Graduate Consultant
+
+The World Bank
+
+Remote
+
+2021 - 2020
+
+- Conducted feasibility study for the implementation of Artificial Intelligence (AI) based Governance Risk Assessment System (GRAS).
+- Prepared a research report on the feasibility study of GRAS.
+
+### Senior Manager
+
+Birla Institute of Management Technology (BIMTECH)
+
+Greater Noida, India
+
+2020 - 2020
+
+- Conducted demand and supply side analysis for micro-insurance product development and product testing for the beneficiaries of SWAPNO project of UNDP Bangladesh.
+- Led one development consultancy project (Baseline Survey and Community Needs Assessment) in Himachal Pradesh, India.
+- Organised a national webinar on âImpact of COVID-19 on Indian agricultureâ. 
+
+### Programme Manager
+
+BIMTECH
+
+Greater Noida, India
+
+2020 - 2016
+
+- Generated revenue worth USD1,33,000 with national (JSW Cement Ltd., JK Paper Ltd., Epsilon Carbon) and international (UNDP Bangladesh) organisations.
+- Led 5 development consultancy projects (Impact Evaluation, Baseline Surveys, Community Needs Assessment, Situation Analysis and Perception Mapping) across India covering 90 villages spread across 9 districts. Led perception mapping of a CSR interventions of NTPC Dadri in 6 villages.
+- Led data collection, preparation, quality assurance and analysis of structured and unstructured data (textual), and data visualization
+- Developed and implemented econometric model (Difference-in-Differences) for the impact evaluation of a microfinance project.
+- Published research article in a peer reviewed ABDC category âAâ rated journal.
+- Organised 3 national workshops on CSR, 1 capacity building training programme.
+
+### Assistant Program Officer
+
+Indian Social Responsibility Network
+
+New Delhi, India
+
+2016 - 2015
+
+- Led impact assessment of sanitation project of Sunil Healthcare Limited.
+- Liaised and coordinated with network NGOs, companies for project implementation.
+- Organised two national level workshops on NGO management
+
+Teaching Experience {data-icon=chalkboard-teacher}
+--------------------------------------------------------------------------------
+
+### Qualitative Thematic Coding and Analysis using MAXQDA 
+
+Resource person at ISDM
+
+Noida, India
+
+2022
+
+### Needs Assessment and Impact Evaluation 
+
+Resource person at BIMTECH
+
+Greater Noida, India
+
+2018
+
+### Corporate Social Responsibility (CSR) and Sustainability
+
+Took a few sessions of CSR and Sustainability Course at BIMTECH
+
+Greater Noida, India
+
+2019 - 2017
+
+Training {data-icon=gears}
+--------------------------------------------------------------------------------
+
+### Exploratory Data Analysis with Categorical Variables Regression Models: Dummy Variables and Logit/Probit using Eviews
+
+[IMPRI Impact and Policy Research Institute](https://www.impriindia.com/event/data-analysis-categorical-variables/)
+
+Online
+
+2022
+
+### Google Data Analytics Professional Certificate 
+
+[Coursera](https://www.coursera.org/professional-certificates/google-data-analytics?utm_source=gg&utm_medium=sem&utm_campaign=B2C_INDIA_google-data-analytics_FTCOF_professional-certificates_arte-NRL_greater_than_14D&utm_content=B2C&campaignid=19002533988&adgroupid=&device=c&keyword=&matchtype=&network=x&devicemodel=&adpostion=&creativeid=&hide_mobile_promo&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYFxeAxS-MmggI4BcgFTWC6RnZKCDpH5svjuC7yx1tkeYyW4chmFRKxoCMtcQAvD_BwE) | Google
+
+MOOC
+
+2022
+
+### Machine Learning A-Zâ¢: Hands-On Python & R In Data Science
+
+[Udemy](https://www.udemy.com/course/machinelearning/)
+
+MOOC
+
+2022
+
+### R Programming: Advanced Analytics In R For Data Science
+
+[Udemy](https://www.udemy.com/course/r-analytics/?utm_source=adwords&utm_medium=udemyads&utm_campaign=DataScience_v.PROF_la.EN_cc.INDIA_ti.5336&utm_content=deal4584&utm_term=_._ag_81684907382_._ad_533157667342_._kw__._de_c_._dm__._pl__._ti_dsa-774930027489_._li_9303346_._pd__._&matchtype=&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYHuIVFPfGSX7J-fFwo1RnPnwTbuRiOzmDrBYDpNmodOOm4zlqxYYZBoCFtwQAvD_BwE)
+
+MOOC
+
+2022
+
+### Qualitative Data Analysis with MAXQDA Software
+
+[Coursera](https://www.coursera.org/learn/qualitative-data-analysis-with-maxqda-software) | Emory University
+
+MOOC
+
+2021
+
+### STATA
+
+London School of Economics and Political Science 
+
+London, UK
+
+2021
+
+### R programming
+
+London School of Economics and Political Science
+
+London, UK
+
+2021
+
+### Data Science: R Basics
+
+[edX](https://www.edx.org/course/data-science-r-basics) | HarvardX, Harvard University 
+
+MOOC
+
+2020
+
+### Adobe InDesign CC - Essentials Training Course
+
+[Udemy](https://www.udemy.com/course/indesign-tutorial-basics-course/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236703_._ad_533220806585_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171592_._li_9303346_._pd__._&matchtype=&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYJhiUtl1Q1n623drmnDiFOKcX5QoNCcuGX4Ibf857Ha6AALasLebNxoCX7EQAvD_BwE)
+
+MOOC
+
+2020
+
+### Adobe InDesign CC - Advanced Training Course
+
+[Udemy](https://www.udemy.com/course/adobe-indesign-cc-advanced-training/?utm_source=adwords&utm_medium=udemyads&utm_campaign=LongTail_la.EN_cc.INDIA&utm_content=deal4584&utm_term=_._ag_77882236703_._ad_533220806585_._kw__._de_c_._dm__._pl__._ti_dsa-1007766171592_._li_9303346_._pd__._&matchtype=&gclid=CjwKCAiAv9ucBhBXEiwA6N8nYKD3V9BdonbBQJke2FOc7PlTX5p_5WnBn9uXYkz7zMONIfxzK7915hoCbXoQAvD_BwE)
+
+MOOC
+
+2020
+
+### Predictive Analytics with R
+
+BIMTECH 
+
+Greater Noida, India
+
+2017
+
+### Summer School in Environmental and Resource Economics
+
+[South Asian Network for Development and Environmental Economics (SANDEE)](https://www.sandeeonline.org/workshopcat_disp.php?mode=W&id=13)
+
+Bangkok, Thailand
+
+2014
+
+### The Age of Sustainable Development (With Distinction)
+
+[Coursera](https://in.coursera.org/learn/sustainable-development) | Columbia University
+
+MOOC
+
+2014
+
+### Global Trends for Business and Society
+
+[Coursera](https://www.coursera.org/learn/wharton-global-trends-business) | Wharton Business School
+
+MOOC
+
+2014
+
+### New Models of Business in Society
+
+[Coursera](https://in.coursera.org/learn/uva-darden-business-society) | Darden School of Business
+
+MOOC
+
+2014
+
+### Introductory e-course on Climate Change
+
+[United Nations Institute for Training and Research](https://unccelearn.org/course/view.php?id=7&page=overview)
+
+MOOC
+
+2014
+
+Publications {data-icon=file}
+--------------------------------------------------------------------------------
+### Community Development Centre: A Covenant with the Baiga (tribe)
+
+[ISDM Case Centre](https://www.isdm.org.in/talent-management-studies-and-research-reports)
+
+Noida, India
+
+2022
+
+Menon S, **Rana S**, Merchant K, Pandey A.
+
+### National Centre for Promotion of Employment for Disabled People: Dignifying the Disabled
+
+[ISDM Case Centre](https://www.isdm.org.in/talent-management-studies-and-research-reports)
+
+Noida, India
+
+2022
+
+Menon S, **Rana S**, Merchant K.
+
+### Cage of norms
+
+[LinkedIn post](https://www.linkedin.com/pulse/evidence-explainer-satender-rana/?trackingId=q%2BZ3XecnRIGs47U7x6V2sg%3D%3D)
+
+Online
+
+2022
+
+**Rana S**
+
+### Unpacking gender dynamics in food systems
+
+[LSE Department of International Development Blog](https://blogs.lse.ac.uk/internationaldevelopment/2021/08/20/unpacking-gender-dynamics-in-food-systems/)
+
+London, UK
+
+2021
+
+**Rana S**
+
+### Institutional Social Responsibility: A B-School's response towards COVID-19
+
+[India CSR](https://indiacsr.in/institutional-social-responsibility-a-b-schools-response-towards-covid-19/)
+
+Online
+
+2021
+
+**Rana S**, Tiwari R.
+
+### The Role of Law in Promoting CSR: The Case of Indian Maharatna Public Enterprises 
+
+[International and Comparative Corporate Law Journal](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3701631), vol. 13 (2), 2018: pp. 57-106. **ABDC A**
+
+Online
+
+2018
+
+**Rana S**, Sahay A.
+
+### Principles of Sufficiency Economy and Sustainable Development 
+
+[Shodh Gyaan](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3501275), vol. 5 (2), 2018: pp. 27-30.
+
+Greater Noida, India
+
+2018
+
+**Rana S**
+
+### Review of book "Poor Economics: A Radical Rethinking of the Way to Fight Global Poverty", by A. Banerjee & E. Duflo
+
+Shodh Gyaan, vol. 5 (1), 2018: pp. 60-67.
+
+Greater Noida, India
+
+2018
+
+**Rana S**
+
+Selected Awards and Achievements {data-icon=award}
+--------------------------------------------------------------------------------
+### Commonwealth Shared Scholarship
+
+Commonwealth Scholarship Commission in the UK and LSE
+
+London, UK
+
+2020
+
+### Accepted to the MSc in Evidence-Based Social Intervention and Policy Evaluation
+
+University of Oxford
+
+Oxford, UK
+
+2020
+
+### Accepted to the Leading Successful Programs: Using Evidence to Assess Effectiveness
+
+Harvard Kennedy School Executive Education
+
+Hybrid
+
+2020
+
+### Jindal Doctoral Scholarship to pursue PhD programme in Management
+
+O.P. Jindal Global University
+
+Sonipat, India
+
+2018
+
+### Pujya Sh G D Birla Academic Merit Scholarship
+
+BIMTECH
+
+Greater Noida, India
+
+2015 - 2013
